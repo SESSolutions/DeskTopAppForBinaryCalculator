@@ -14,7 +14,7 @@ namespace EzeCyviz.Models {
         public BinaryOperations()
         { }
 
-        // The function that gets bits into the two fields: firstly, the first field is filled then the second field.
+        /// The function that gets bits into the two fields: firstly, the first field is filled then the second field.
         public void GetBitIntoByteField(string bit)
         {        
             try  
